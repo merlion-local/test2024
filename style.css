@@ -1,11 +1,11 @@
 div {
-    width: 150px;
-    height: 150px;
-    border: 2px solid black;
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  border-radius: 20px;
 }
 
 .container {
-    display: flex;
-    justify-content: center;
-    
+  display: flex;
+  justify-content: center;
 }
